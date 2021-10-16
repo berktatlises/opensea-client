@@ -1,0 +1,166 @@
+{
+    "id": 949997799,
+    "asset": {
+        "id": 50763198,
+        "token_id": "1934",
+        "num_sales": 0,
+        "background_color": null,
+        "image_url": "https://lh3.googleusercontent.com/iLOYnNKrCyBbW6ilEpHFYjEHkG_QyEfmThmuVP051FtSIVYxg5XWwNVxyH4dgJv-Qp0Tczk9WOEm-4zyX4kk5YSnSJuXx-Knl02oiw",
+        "image_preview_url": "https://lh3.googleusercontent.com/iLOYnNKrCyBbW6ilEpHFYjEHkG_QyEfmThmuVP051FtSIVYxg5XWwNVxyH4dgJv-Qp0Tczk9WOEm-4zyX4kk5YSnSJuXx-Knl02oiw=s250",
+        "image_thumbnail_url": "https://lh3.googleusercontent.com/iLOYnNKrCyBbW6ilEpHFYjEHkG_QyEfmThmuVP051FtSIVYxg5XWwNVxyH4dgJv-Qp0Tczk9WOEm-4zyX4kk5YSnSJuXx-Knl02oiw=s128",
+        "image_original_url": "https://ipfs.io/ipfs/QmaBN9cLcV7XAUc4BQQ2dp4izHKU4PaifzvBidtJi9upko",
+        "animation_url": null,
+        "animation_original_url": null,
+        "name": "Omnimorph #1934",
+        "description": null,
+        "external_link": "https://omnimorphs.com",
+        "asset_contract": {
+            "address": "0xb5f3dee204ca76e913bb3129ba0312b9f0f31d82",
+            "asset_contract_type": "non-fungible",
+            "created_date": "2021-09-11T08:31:45.657476",
+            "name": "Omnimorphs",
+            "nft_version": "3.0",
+            "opensea_version": null,
+            "owner": 77733735,
+            "schema_name": "ERC721",
+            "symbol": "OMNI",
+            "total_supply": "0",
+            "description": "**Omnimorphs is a generative NFT collectible project of 10.000 unique, digitally hand-drawn avatars immortalized on the Ethereum blockchain.**\r\n\r\n*Omnimorphs* live their lives on the brink of human societies, not getting involved, but close enough to observe. Though they’re inherently devoid of any shape or form, here on Earth, they usually choose to appear as humans. While they’re completely peaceful, their sheer existence is like an eerie reflection of humanity, a constant awkward, inquisitive stare that makes one squirm with discomfort.\r\n\r\nVisit our [official website ](https://www.omnimorphs.com) for more details.",
+            "external_link": "https://omnimorphs.com/",
+            "image_url": "https://lh3.googleusercontent.com/S36Gqs6mWRd2EpeG3QCY6HubD0O1k_sTslOJbtnx5Lg5EWiebyBhLGJIjebNqfTGU-ALVuUY6_CwGXbc_-ZxXne6T-3pYXqpjKpk=s120",
+            "default_to_fiat": false,
+            "dev_buyer_fee_basis_points": 0,
+            "dev_seller_fee_basis_points": 250,
+            "only_proxied_transfers": false,
+            "opensea_buyer_fee_basis_points": 0,
+            "opensea_seller_fee_basis_points": 250,
+            "buyer_fee_basis_points": 0,
+            "seller_fee_basis_points": 500,
+            "payout_address": "0x08c857bce1184ba110a6351161bdc5a18397cbeb"
+        },
+        "permalink": "https://opensea.io/assets/0xb5f3dee204ca76e913bb3129ba0312b9f0f31d82/1934",
+        "collection": {
+            "banner_image_url": "https://lh3.googleusercontent.com/oKxFWrIcYoXiCtfWFQi3K-OmCsbBEUIzMsmsp0_Yf-fc1QULy1buUZ__a6H1J27GiBAtG5RBfV7krNTfsdTDFTulNh6OADad8RfC9A=s2500",
+            "chat_url": null,
+            "created_date": "2021-09-11T09:09:24.192511",
+            "default_to_fiat": false,
+            "description": "**Omnimorphs is a generative NFT collectible project of 10.000 unique, digitally hand-drawn avatars immortalized on the Ethereum blockchain.**\r\n\r\n*Omnimorphs* live their lives on the brink of human societies, not getting involved, but close enough to observe. Though they’re inherently devoid of any shape or form, here on Earth, they usually choose to appear as humans. While they’re completely peaceful, their sheer existence is like an eerie reflection of humanity, a constant awkward, inquisitive stare that makes one squirm with discomfort.\r\n\r\nVisit our [official website ](https://www.omnimorphs.com) for more details.",
+            "dev_buyer_fee_basis_points": "0",
+            "dev_seller_fee_basis_points": "250",
+            "discord_url": "https://discord.gg/omnimorphs",
+            "display_data": {
+                "card_display_style": "cover"
+            },
+            "external_url": "https://omnimorphs.com/",
+            "featured": false,
+            "featured_image_url": "https://lh3.googleusercontent.com/M-mYJ_F_6GA5h58D7YQ0TijvK1WQOkPGaJcxPi04y83LYPNAMopKOpMBwXgfyKBmP6aJWoA30epHrLWax5cH9JTjy2DxVfNakRToDw=s300",
+            "hidden": false,
+            "safelist_request_status": "verified",
+            "image_url": "https://lh3.googleusercontent.com/S36Gqs6mWRd2EpeG3QCY6HubD0O1k_sTslOJbtnx5Lg5EWiebyBhLGJIjebNqfTGU-ALVuUY6_CwGXbc_-ZxXne6T-3pYXqpjKpk=s120",
+            "is_subject_to_whitelist": false,
+            "large_image_url": "https://lh3.googleusercontent.com/M-mYJ_F_6GA5h58D7YQ0TijvK1WQOkPGaJcxPi04y83LYPNAMopKOpMBwXgfyKBmP6aJWoA30epHrLWax5cH9JTjy2DxVfNakRToDw=s300",
+            "medium_username": "omnimorphs",
+            "name": "Omnimorphs",
+            "only_proxied_transfers": false,
+            "opensea_buyer_fee_basis_points": "0",
+            "opensea_seller_fee_basis_points": "250",
+            "payout_address": "0x08c857bce1184ba110a6351161bdc5a18397cbeb",
+            "require_email": false,
+            "short_description": null,
+            "slug": "omnimorphs",
+            "telegram_url": null,
+            "twitter_username": "omnimorphs",
+            "instagram_username": "omnimorphs",
+            "wiki_url": null
+        },
+        "decimals": 0,
+        "token_metadata": "https://ipfs.io/ipfs/Qmbs2mSDYYooSJpbya9imgWxWAmZVfozcidce2qV7PCZYR/1934",
+        "owner": {
+            "user": {
+                "username": "HentaiMatter"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+            "address": "0xcc9a7b2a59c95b4b5e915762d27f5f0dde49134a",
+            "config": ""
+        }
+    },
+    "asset_bundle": null,
+    "created_date": "2021-09-26T14:25:53.639809",
+    "closing_date": "2021-09-27T20:00:00",
+    "closing_extendable": false,
+    "expiration_time": 1632772800,
+    "listing_time": 1632666251,
+    "order_hash": "0x3eb04f9079606ba9fda154178ba10177a12377b5331fb74def9296ebff68afa4",
+    "metadata": {
+        "asset": {
+            "id": "1934",
+            "address": "0xb5f3dee204ca76e913bb3129ba0312b9f0f31d82"
+        },
+        "schema": "ERC721"
+    },
+    "exchange": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+    "maker": {
+        "user": {
+            "username": "Iheartkclee"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x890f912a5f6a0ffc89f07638552a7a30eef9dc17",
+        "config": ""
+    },
+    "taker": {
+        "user": {
+            "username": "NullAddress"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+        "address": "0x0000000000000000000000000000000000000000",
+        "config": ""
+    },
+    "current_price": "149000000000000000.0000000000",
+    "current_bounty": "1490000000000000",
+    "bounty_multiple": "0.01",
+    "maker_relayer_fee": "0",
+    "taker_relayer_fee": "500",
+    "maker_protocol_fee": "0",
+    "taker_protocol_fee": "0",
+    "maker_referrer_fee": "0",
+    "fee_recipient": {
+        "user": {
+            "username": "OS-Wallet"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/28.png",
+        "address": "0x5b3256965e7c3cf26e11fcaf296dfc8807c01073",
+        "config": "verified"
+    },
+    "fee_method": 1,
+    "side": 0,
+    "sale_kind": 0,
+    "target": "0xb5f3dee204ca76e913bb3129ba0312b9f0f31d82",
+    "how_to_call": 0,
+    "calldata": "0x23b872dd0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000890f912a5f6a0ffc89f07638552a7a30eef9dc17000000000000000000000000000000000000000000000000000000000000078e",
+    "replacement_pattern": "0x00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "static_target": "0x0000000000000000000000000000000000000000",
+    "static_extradata": "0x",
+    "payment_token": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "payment_token_contract": {
+        "id": 2,
+        "symbol": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "image_url": "https://storage.opensea.io/files/accae6b6fb3888cbff27a013729c22dc.svg",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "eth_price": "1.000000000000000",
+        "usd_price": "3003.219999999999800000"
+    },
+    "base_price": "149000000000000000",
+    "extra": "0",
+    "quantity": "1",
+    "salt": "39142421357134264302774144422903955749543447123321128942307745251019249090243",
+    "v": 28,
+    "r": "0x662069225c7ee259ecb2c01fa6357bba10fc2638e919ef1bd7b88ca538dd9d0c",
+    "s": "0x1398acfc19e31e12bf39d63dace30931e20472de4a4ba2425997016a30910ea5",
+    "approved_on_chain": false,
+    "cancelled": false,
+    "finalized": false,
+    "marked_invalid": false,
+    "prefixed_hash": "0xd123f91905438202e505543cac21589722c7f89e3a670c3c3b039d4945d8137e"
+}
