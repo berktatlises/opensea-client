@@ -29,18 +29,20 @@ const createTcpPool = async config => {
     });
 }
 
-const getGlassnodeApiUrl = function(endpoint) {
-    return GLASSNODE_API_URL + endpoint + '?api_key=' + GLASSNODE_API_KEY
+const getGlassnodeApiUrl = function(endpoint, asset) {
+    return GLASSNODE_API_URL + endpoint + '?f=csv&api_key=' + GLASSNODE_API_KEY + '&a=' + asset
 }
 
-const queryGlassnodeApi = async function(endpoint, keepRaw = false) {
-    let apiUrl = getGlassnodeApiUrl(endpoint)
-    let responseObj = await getJSON(apiUrl)
+const queryGlassnodeApi = async function(endpoint, asset, keepRaw = false) {
+    let apiUrl = getGlassnodeApiUrl(endpoint, asset)
+    // let responseObj = await getJSON(apiUrl)
+    let responseBuffer = getBuffer(apiUrl)
 
     if (keepRaw) {
-        let filename = 'glassnode-' + endpoint.replace(/\//g, '_') + '_' + Date.now() + '.txt'
+        let filename = 'glassnode-' + endpoint.replace(/\//g, '_') + '_' + Date.now() + '.csv'
         let filepath = RAW_DATA_PATH + filename
-        await writeFile(filepath, JSON.stringify(responseObj))
+        // await writeFile(filepath, JSON.stringify(responseObj))
+        await writeFile(filepath, (await responseBuffer).toString('utf-8'))
     }
 
     return responseObj
@@ -119,9 +121,9 @@ const collectOpenSeaOrders = async function() {
 }
 
 const runTasks = async function() {
-    // return await queryGlassnodeApi('/metrics/assets', true)
-    connectionPool = await createTcpPool()
-    return await collectOpenSeaOrders()
+    return await queryGlassnodeApi('/metrics/addresses/min_1k_count', 'BTC', true)
+    // connectionPool = await createTcpPool()
+    // return await collectOpenSeaOrders()
 }
 
 runTasks().then(responseObj => {
